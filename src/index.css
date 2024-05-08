@@ -5,18 +5,6 @@
   border: 2px solid #131212;
   border-radius: 5px;
 }
-.calculator {
-  width: 300px;
-  margin: 0 auto;
-  padding: 20px;
-  border: 2px solid #ccc;
-  border-radius: 5px;
-  background-image: url('//src/edwin\ 1.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
 
 
 input[type="text"] {
